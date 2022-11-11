@@ -1,9 +1,9 @@
 # Micro Frontend with Webpack5 Federation
 
 ## What we have
-- [ ] Webpack configuration
-- [ ] Routing
-- [ ] Exposes & Remote import
+- [x] Webpack configuration
+- [x] Routing
+- [x] Exposes & Remote import
 
 ## TODO
 - [ ] State Management
